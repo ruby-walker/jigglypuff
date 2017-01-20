@@ -1,7 +1,14 @@
-body {
+h1{
     margin-top: 100px;
+}
+body {
     margin-left: 150px;
-    margin-right: 1500px;
+    margin-right: 150px;
+}
+
+li{
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 a:hover{
